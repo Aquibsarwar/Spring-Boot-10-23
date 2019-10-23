@@ -8,7 +8,7 @@ public class AppConfiguration {
 @RequestMapping("/hello")
 
 public String hello() {
-	return "Hello World!";
+	return "新しいプロジェクト!";
 }
 
 }
